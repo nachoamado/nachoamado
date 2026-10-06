@@ -13,8 +13,3 @@ I'm a software engineer from Buenos Aires, Argentina, with several years buildin
 - 🤖 Daily user of AI-assisted development with Claude Code.
 - 🌱 Currently building a side project with the latest NET & Angular versions.
 - 💼 Open to remote contractor opportunities.
-
-- 💡 What I Bring
-Legacy to modern: incremental migrations that keep the business running while the stack is replaced.
-Performance: SQL Server query optimization, stored procedures and execution-plan analysis.
-Team mindset: I like sharing knowledge and helping my teammates grow.
